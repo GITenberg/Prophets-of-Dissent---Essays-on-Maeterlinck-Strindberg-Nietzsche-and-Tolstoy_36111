@@ -13,6 +13,8 @@ creator:
 description: 'Maurice Maeterlinck : a study in mysticism -- August Strindberg : a
   study in eccentricity -- Friedrich Nietzsche : a study in exaltation -- Leo Tolstoy
   : a study in revivalism.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36111#Prophets-of-Dissent---Essays-on-Maeterlinck-Strindberg-Nietzsche-and-Tolstoy
 gutenberg_issued: '2011-05-15'
 gutenberg_type: Text
 identifiers:
